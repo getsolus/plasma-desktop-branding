@@ -9,6 +9,7 @@ xdg_data = [
     'kglobalshortcutsrc',
     'klaunchrc',
     'klipperrc',
+    'klauncher',
     'ksplashrc',
     'kwinrc',
     'kwinrulesrc',
