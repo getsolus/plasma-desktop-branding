@@ -1,5 +1,5 @@
-# Begin /usr/share/xdg/plasma-workspace/env/50-ssh.sh
-
+# Begin /usr/share/xdg/plasma-workspace/env/50-solus-defaults.sh
+	
 # Load agent if it isn't already
 if [ -z "${SSH_AGENT_PID}" ]; then
     eval `ssh-agent -s`
@@ -10,4 +10,7 @@ if [ -f /usr/bin/ksshaskpass ]; then
     export SSH_ASKPASS="/usr/bin/ksshaskpass"
 fi
 
-# End /usr/share/xdg/plasma-workspace/env/50-ssh.sh
+# Use plasma firefox file dialog
+export GTK_USE_PORTAL=1
+
+# End /usr/share/xdg/plasma-workspace/env/50-solus-defaults.sh
