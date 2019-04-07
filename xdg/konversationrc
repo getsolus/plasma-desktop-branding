@@ -1,0 +1,17 @@
+[Channel 0]
+Name=#solus
+
+[Identity 0]
+Ident=Solus-Plasma
+Nicknames=Solus-Plasma,Solus-Plasma_,Solus_Plasma__
+Realname=Solus-Plasma
+
+[Server 0]
+Port=6667
+Server=chat.freenode.net
+
+[ServerGroup 0]
+AutoConnect=ture
+AutoJoinChannels=Channel 0
+Name=Solus IRC
+ServerList=Server 0
