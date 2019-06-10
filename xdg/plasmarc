@@ -1,5 +1,8 @@
+[Wallpapers]
+usersWallpapers=/usr/share/wallpapers/SolusPlasma/
+
 [Theme]
-name=breeze-dark
+name=solus-dark
 
 [Units]
 longDuration=85

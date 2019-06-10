@@ -76,7 +76,6 @@ application/x-mswrite=libreoffice-writer.desktop;
 application/x-ogg=vlc.desktop;
 application/x-rar=org.kde.ark.desktop;
 application/x-rpm=org.kde.ark.desktop;
-application/x-shellscript=org.kde.kate.desktop;org.kde.kwrite.desktop;
 application/x-shockwave-flash=vlc.desktop;
 application/x-source-rpm=org.kde.ark.desktop;
 application/x-tar=org.kde.ark.desktop;
