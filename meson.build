@@ -21,11 +21,9 @@ if path_envdir == ''
 endif
 
 subdir('applications')
-subdir('desktoptheme')
 subdir('env')
-subdir('look-and-feel')
+subdir('plasma')
 subdir('sddm')
-subdir('wallpapers')
 subdir('xdg')
 
 
