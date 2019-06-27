@@ -8,7 +8,7 @@
         "Category": "",
         "Description": "Solus Dark",
         "Id": "solusdark.desktop",
-        "License": "GPL-2.0",
+        "License": "Apache-2.0",
         "Name": "SolusDark",
         "ServiceTypes": [
             "Plasma/LookAndFeel"

@@ -3,7 +3,7 @@ project(
     ['c'],
     version: '1',
     license: [
-        'GPL-2.0',
+        'Apache-2.0',
     ],
     default_options: [
         'prefix=/usr',

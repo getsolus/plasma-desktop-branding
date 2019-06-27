@@ -6,4 +6,8 @@ This package is to be used for the default configuration of elements within the 
 
 Copyright © 2017-2019 Solus Project
 
-GPL-2.0
+Apache-2.0
+
+## Images
+
+Except when declared otherwise, the majority of the photo images in plasma/wallpapers have been kindly provided by John McCormack for inclusion into Solus. We are incredibly grateful for the beautiful images he has provided. 
