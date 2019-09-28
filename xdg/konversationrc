@@ -1,10 +1,13 @@
+[General Options]
+SpellChecking=true
+
 [Channel 0]
 Name=#solus
 
 [Identity 0]
-Ident=Solus-Plasma
-Nicknames=Solus-Plasma,Solus-Plasma_,Solus_Plasma__
-Realname=Solus-Plasma
+Ident=Plasma-Live
+Nicknames=Plasma-Live,Plasma-Live_,Plasma-Live__
+Realname=Plasma-Live
 
 [Server 0]
 Port=6667

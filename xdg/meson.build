@@ -6,7 +6,6 @@ xdg_data = [
     'kcminputrc',
     'kded5rc',
     'kdeglobals',
-    'kglobalshortcutsrc',
     'klaunchrc',
     'klipperrc',
     'klaunchrc',

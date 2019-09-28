@@ -1,3 +1,4 @@
 [Windeco]
 DrawSizeGrip=false
 DrawTitleBarSeparator=false
+ButtonSize=ButtonSmall
