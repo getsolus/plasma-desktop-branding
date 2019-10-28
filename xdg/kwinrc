@@ -3,6 +3,3 @@ kwin4_effect_loginEnabled=false
 
 [Windows]
 Placement=Centered
-
-[org.kde.kdecoration2]
-BorderSize=None
