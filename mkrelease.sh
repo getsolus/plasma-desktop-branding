@@ -1,14 +1,15 @@
 #!/bin/bash
 set -e
 
-git submodule init
-git submodule update
+rm -rf build
+meson --prefix /usr build
+ninja dist -C build
 
-# Script for ikey because he went with meson. *shrug*
+# Bump in tandem with meson.build, run script once new tag is up.
 VERSION="2"
-NAME="plasma-desktop-branding"
-git-archive-all --format tar --prefix ${NAME}-${VERSION}/ --verbose -t HEAD ${NAME}-${VERSION}.tar
-xz -9 "${NAME}-${VERSION}.tar"
+TAR="plasma-desktop-branding-${VERSION}.tar.xz"
+mv build/meson-dist/$TAR .
 
-gpg --armor --detach-sign "${NAME}-${VERSION}.tar.xz"
-gpg --verify "${NAME}-${VERSION}.tar.xz.asc"               
+# Automatically sign the tarball with GPG key of user running this script
+gpg --armor --detach-sign $TAR
+gpg --verify "${TAR}.asc"
