@@ -16,7 +16,7 @@ xdg_data = [
     'kwinrulesrc',
     'plasmarc',
     'spectaclerc',
-    'touchpadrc',
+    'touchpadxlibinputrc',
 ]
 
 xdg_dir = join_paths(path_datadir, 'xdg')
