@@ -1,0 +1,11 @@
+[Default Item Styles - Schema Breeze Dark]
+Error=ffda4453,ffda4453,0,,,1,-,-,,---
+
+[Default Item Styles - Schema Normal]
+Error=ffbf0303,ff9c0e0e,,0,,1,-,-,,---
+
+[Highlighting None - Schema Breeze Dark]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Normal]
+None:Normal=0,,,,,,,,,,---

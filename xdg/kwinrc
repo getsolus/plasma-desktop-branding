@@ -1,5 +1,9 @@
 [Plugins]
 kwin4_effect_loginEnabled=false
 
+[TabBox]
+LayoutName=thumbnails
+
+
 [Windows]
 Placement=Centered

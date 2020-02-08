@@ -1,7 +1,10 @@
 xdg_data = [
     'baloofilerc',
     'breezerc',
+    'katerc',
     'katepartrc',
+    'kateschemarc',
+    'katesyntaxhighlightingrc',
     'kcm-about-distrorc',
     'kcminputrc',
     'kded5rc',

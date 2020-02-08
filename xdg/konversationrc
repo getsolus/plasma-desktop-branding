@@ -1,13 +1,33 @@
+[Appearance]
+ChannelSplitterSizes=2258,156
+IrcColorCode1=255,85,255
+NickColor8=0,85,0
+TopicSplitterSizes=28,1193
+TreeSplitterSizes=145,494
+
 [General Options]
 SpellChecking=true
 
 [Channel 0]
 Name=#solus
 
+[Flags]
+InputFieldsBackgroundColor=true
+
 [Identity 0]
 Ident=Plasma-Live
 Nicknames=Plasma-Live,Plasma-Live_,Plasma-Live__
 Realname=Plasma-Live
+
+[Message Text Colors]
+ActionMessage=85,170,0
+AlternateBackground=27,27,27
+ChannelMessage=208,208,208
+CommandMessage=112,144,112
+Hyperlink=49,118,179
+QueryMessage=198,198,198
+TextViewBackground=27,27,27
+Time=134,161,148
 
 [Server 0]
 Port=6667
