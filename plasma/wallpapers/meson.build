@@ -8,16 +8,16 @@ install_data(
 )
 
 install_data(
-    'screenshot.png',
+    'screenshot.jpg',
     install_dir: contents_dir,
 )
 
 install_data(
-    '1366x768.png',
-    '1920x1080.png',
-    '2560x1440.png',
-    '3200x1800.png',
-    '3840x2160.png',
-    '5120x2880.png',
+    '1366x768.jpg',
+    '1920x1080.jpg',
+    '2560x1440.jpg',
+    '3200x1800.jpg',
+    '3840x2160.jpg',
+    '5120x2880.jpg',
     install_dir: images_dir,
 )
