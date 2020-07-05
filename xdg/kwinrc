@@ -6,4 +6,5 @@ LayoutName=thumbnails
 
 
 [Windows]
+ActiveMouseScreen=true
 Placement=Centered
