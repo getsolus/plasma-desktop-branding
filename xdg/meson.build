@@ -1,6 +1,7 @@
 xdg_data = [
     'baloofilerc',
     'breezerc',
+    'dolphinrc',
     'katepartrc',
     'kcm-about-distrorc',
     'kcminputrc',
