@@ -1,17 +1,13 @@
-[Desktop Entry]
+[DesktopEntry]
 Name=SolusDark
-Comment=dark solus theme
-
+Comment=SolusDark
 X-KDE-PluginInfo-Author=Solus Plasma
 X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=Appache-2.0
 X-KDE-PluginInfo-Name=solusdark
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://getsol.us
-X-KDE-PluginInfo-Category=
-X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-License=Apache-2.0
-X-KDE-PluginInfo-EnabledByDefault=true
-X-Plasma-API=5.0
+X-Plasma-Api=5.0
 
 [Settings]
 FallbackTheme=breeze-dark
@@ -19,11 +15,14 @@ FallbackTheme=breeze-dark
 [Wallpaper]
 defaultWallpaperTheme=SolusPlasma
 defaultFileSuffix=.jpg
-defaultWidth=1920
 defaultHeight=1080
+defaultWidth=1920
 
 [ContrastEffect]
-enabled=true
-contrast=0.2
-intensity=0.4
+contrast=0.5
+enable=true
+intensity=0.5
 saturation=1.7
+
+[Desktop Entry]
+X-KDE-PluginInfo-Version=0.0.8

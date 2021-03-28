@@ -1,9 +1,15 @@
+[Effect-Blur]
+BlurStrength=6
+NoiseStrength=0
+
 [Plugins]
 kwin4_effect_loginEnabled=false
+blurEnabled=true
+contrastEnabled=false
+highlightwindowEnabled=true
 
 [TabBox]
 LayoutName=thumbnails
-
 
 [Windows]
 ActiveMouseScreen=true

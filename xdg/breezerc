@@ -1,3 +1,6 @@
 [Windeco]
 DrawSizeGrip=false
 DrawTitleBarSeparator=false
+
+[Style]
+MenuOpacity=75

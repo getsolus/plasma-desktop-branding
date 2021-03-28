@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Solus Plasma"
+            }
+        ],
+        "Category": "",
+        "Description": "Solus Default panel featuring application launcher, task manager and system tray",
+        "EnabledByDefault": true,
+        "Id": "solus.desktop.defaultPanel",
+        "License": "Apache-2.0",
+        "Name": "Solus Default Panel",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "0.1",
+        "Website": "https://www.getsol.us"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}

@@ -8,7 +8,10 @@ ColorScheme=SolusDark
 Theme=breeze-dark
 
 [plasmarc][Theme]
-name=SolusDark
+name=solus-dark
+
+[Wallpaper]
+Image=SolusPlasma
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

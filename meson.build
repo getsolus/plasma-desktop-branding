@@ -22,7 +22,7 @@ endif
 
 subdir('applications')
 subdir('env')
-subdir('plasma')
+subdir('solus-desktoptheme')
 subdir('sddm')
 subdir('xdg')
 

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Solus Default Panel
+Comment=Solus Default panel featuring application launcher, task manager and system tray
+Type=Service
+X-KDE-ServiceTypes=Plasma/LayoutTemplate
+X-Plasma-Shell=plasmashell
+X-Plasma-ContainmentCategories=panel
+X-KDE-PluginInfo-Author=Solus Plasma
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=solus.defaultPanel
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://www.getsol.us
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=Apache-2.0
+X-KDE-PluginInfo-EnabledByDefault=true
