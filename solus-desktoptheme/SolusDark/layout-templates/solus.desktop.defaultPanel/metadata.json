@@ -1,3 +1,4 @@
+
 {
     "KPlugin": {
         "Authors": [
@@ -9,7 +10,7 @@
         "Description": "Solus Default panel featuring application launcher, task manager and system tray",
         "EnabledByDefault": true,
         "Id": "solus.desktop.defaultPanel",
-        "License": "Apache-2.0",
+        "License": "LGPLv2+",
         "Name": "Solus Default Panel",
         "ServiceTypes": [
             "Plasma/LayoutTemplate"

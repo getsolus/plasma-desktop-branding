@@ -1,3 +1,5 @@
+// This is based on the Plasma default panel which is licensed under LGPLv2+
+
 var panel = new Panel
 var panelScreen = panel.screen
 var freeEdges = {"bottom": true, "top": true, "left": true, "right": true}
@@ -43,6 +45,7 @@ kicker.writeConfig("global", "Alt+F1")
 
 panel.addWidget("org.kde.plasma.pager")
 panel.addWidget("org.kde.plasma.icontasks")
+panel.addWidget("org.kde.plasma.marginsseparator")
 
 
 var langIds = ["as",    // Assamese
@@ -86,5 +89,3 @@ if (langIds.indexOf(languageId) != -1) {
 panel.addWidget("org.kde.plasma.systemtray")
 panel.addWidget("org.kde.plasma.minimizeall")
 panel.addWidget("org.kde.plasma.digitalclock")
-
-
