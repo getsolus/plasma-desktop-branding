@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="47.115584"
-     inkscape:cx="44.525434"
-     inkscape:cy="40.504682"
+     inkscape:zoom="22.627417"
+     inkscape:cx="93.569437"
+     inkscape:cy="42.470921"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1281"
+     inkscape:window-height="1280"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,397 +62,131 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-196.10227,-561.10224)">
+    <path
+       style="fill:#0a7db9;fill-opacity:0.2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 219.99991,609.99984 c 0,5 0,5 5,5 v -5 z"
+       id="hover-bottomleft"
+       sodipodi:nodetypes="cccc" />
     <rect
-       style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
+       style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999993;stroke-opacity:0"
        id="hover-center"
        width="15"
-       height="15"
+       height="14.999829"
        x="225"
        y="595"
        inkscape:label="#center" />
-    <g
-       id="hover-left"
-       inkscape:label="#left">
-      <rect
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4988"
-         width="5"
-         height="15"
-         x="220"
-         y="595" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,595 v 15 h 1 v -15 z"
-         id="path4994" />
-    </g>
-    <g
-       id="hover-right"
-       inkscape:label="#right"
-       style="fill:#1b1b1b;fill-opacity:0.85098">
-      <rect
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4984"
-         width="5"
-         height="15"
-         x="240"
-         y="595" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 244,595 v 15 h 1 v -15 z"
-         id="path4996" />
-    </g>
-    <g
-       id="hover-top"
-       inkscape:label="#top">
-      <rect
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4986"
-         width="15"
-         height="5"
-         x="225"
-         y="590" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,590 h 15 v 1 h -15 z"
-         id="path4998" />
-    </g>
-    <g
-       id="hover-bottom"
-       inkscape:label="#bottom">
-      <rect
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4990"
-         width="15"
-         height="5"
-         x="225"
-         y="610" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,615 h 15 v -1 h -15 z"
-         id="path5000" />
-    </g>
-    <g
-       id="hover-topleft"
-       inkscape:label="#topleft">
-      <path
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,590 c -3,0 -5,2 -5,5 h 5 z"
-         id="path5002"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,595 c 0,-3 2,-5 5,-5 v 1 c -2,0 -4,2 -4,4 z"
-         id="path5033"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="hover-topright"
-       inkscape:label="#topright"
-       style="fill:#1b1b1b;fill-opacity:0.85098">
-      <path
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 245,595 c 0,-3 -2,-5 -5,-5 v 5 z"
-         id="path5002-4"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 240,590 c 3,0 5,2 5,5 h -1 c 0,-2 -2,-4 -4,-4 z"
-         id="path5033-6"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="hover-bottomright"
-       inkscape:label="#bottomright"
-       style="fill:#1b1b1b;fill-opacity:0.85098">
-      <path
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 240,615 c 3,0 5,-2 5,-5 h -5 z"
-         id="path5002-44"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 245,610 c 0,3 -2,5 -5,5 v -1 c 2,0 4,-2 4,-4 z"
-         id="path5033-3"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="hover-bottomleft"
-       inkscape:label="#bottomleft">
-      <path
-         style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,610 c 0,3 2,5 5,5 v -5 z"
-         id="path5002-7"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,615 c -3,0 -5,-2 -5,-5 h 1 c 0,2 2,4 4,4 z"
-         id="path5033-1"
-         sodipodi:nodetypes="ccccc" />
-    </g>
     <rect
-       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
+       style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999993;stroke-opacity:0"
+       id="hover-left"
+       width="5"
+       height="14.999829"
+       x="220"
+       y="595" />
+    <rect
+       style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999993;stroke-opacity:0"
+       id="hover-right"
+       width="5"
+       height="14.999829"
+       x="240"
+       y="595" />
+    <rect
+       style="opacity:0.2;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
+       id="hover-top"
+       width="15"
+       height="5"
+       x="225"
+       y="590" />
+    <path
+       style="opacity:0.2;fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:2.23608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 224.99991,614.99984 h 15 v -5 h -15 z"
+       id="hover-bottom" />
+    <rect
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999996;stroke-opacity:0"
        id="selected-center"
        width="15"
-       height="15"
+       height="14.999962"
        x="254.99992"
        y="594.99988"
        inkscape:label="#center" />
-    <g
-       id="selected-left"
-       inkscape:label="#left"
-       transform="translate(29.99992,-1.3e-4)">
-      <rect
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4988-5"
-         width="5"
-         height="15"
-         x="220"
-         y="595" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,595 v 15 h 1 v -15 z"
-         id="path4994-6" />
-    </g>
-    <g
-       id="selected-right"
-       inkscape:label="#right"
-       transform="translate(29.99992,-1.3e-4)">
-      <rect
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4984-9"
-         width="5"
-         height="15"
-         x="240"
-         y="595" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 244,595 v 15 h 1 v -15 z"
-         id="path4996-1" />
-    </g>
-    <g
-       id="selected-top"
-       inkscape:label="#top"
-       transform="translate(29.99992,-1.3e-4)">
-      <rect
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4986-7"
-         width="15"
-         height="5"
-         x="225"
-         y="590" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,590 h 15 v 1 h -15 z"
-         id="path4998-0" />
-    </g>
-    <g
-       id="selected-bottom"
-       inkscape:label="#bottom"
-       transform="translate(29.99992,-1.3e-4)">
-      <rect
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4990-3"
-         width="15"
-         height="5"
-         x="225"
-         y="610" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,615 h 15 v -1 h -15 z"
-         id="path5000-6" />
-    </g>
-    <g
-       id="selected-topleft"
-       inkscape:label="#topleft"
-       transform="translate(29.99992,-1.3e-4)">
-      <path
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,590 c -3,0 -5,2 -5,5 h 5 z"
-         id="path5002-6"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,595 c 0,-3 2,-5 5,-5 v 1 c -2,0 -4,2 -4,4 z"
-         id="path5033-2"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="selected-topright"
-       inkscape:label="#topright"
-       transform="translate(29.99992,-1.3e-4)">
-      <path
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 245,595 c 0,-3 -2,-5 -5,-5 v 5 z"
-         id="path5002-4-1"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 240,590 c 3,0 5,2 5,5 h -1 c 0,-2 -2,-4 -4,-4 z"
-         id="path5033-6-8"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="selected-bottomright"
-       inkscape:label="#bottomright"
-       transform="translate(29.99992,-1.3e-4)">
-      <path
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 240,615 c 3,0 5,-2 5,-5 h -5 z"
-         id="path5002-44-9"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 245,610 c 0,3 -2,5 -5,5 v -1 c 2,0 4,-2 4,-4 z"
-         id="path5033-3-2"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="selected-bottomleft"
-       inkscape:label="#bottomleft"
-       transform="translate(29.99992,-1.3e-4)">
-      <path
-         style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,610 c 0,3 2,5 5,5 v -5 z"
-         id="path5002-7-2"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,615 c -3,0 -5,-2 -5,-5 h 1 c 0,2 2,4 4,4 z"
-         id="path5033-1-3"
-         sodipodi:nodetypes="ccccc" />
-    </g>
     <rect
-       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-       id="selected+hover-center2"
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999994;stroke-opacity:0"
+       id="selected-left"
+       width="5"
+       height="14.999951"
+       x="249.99992"
+       y="594.99988" />
+    <rect
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999996;stroke-opacity:0"
+       id="selected-right"
+       width="5"
+       height="14.999981"
+       x="269.99991"
+       y="594.99988" />
+    <rect
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
+       id="selected-top"
        width="15"
-       height="15"
+       height="5"
+       x="254.99992"
+       y="589.99988" />
+    <path
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 254.99992,589.99987 c -5.00001,-3e-5 -5.00001,-3e-5 -5,5 h 5 z"
+       id="selected-topleft"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 274.99992,594.99987 c -10e-6,-5.00003 -10e-6,-5.00003 -5,-5 v 5 z"
+       id="selected-topright"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g1013" />
+    <rect
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999996;stroke-opacity:0"
+       id="selected_hover-center"
+       width="15"
+       height="14.999962"
        x="284.99991"
        y="594.99988"
        inkscape:label="#selected+hover-center" />
-    <g
-       id="selected+hover-left"
-       inkscape:label="#left"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <rect
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4988-5-2"
-         width="5"
-         height="15"
-         x="220"
-         y="595" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,595 v 15 h 1 v -15 z"
-         id="path4994-6-9" />
-    </g>
-    <g
-       id="selected+hover-right"
-       inkscape:label="#right"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <rect
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4984-9-1"
-         width="5"
-         height="15"
-         x="240"
-         y="595" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 244,595 v 15 h 1 v -15 z"
-         id="path4996-1-9" />
-    </g>
-    <g
-       id="selected+hover-top"
-       inkscape:label="#top"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <rect
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4986-7-7"
-         width="15"
-         height="5"
-         x="225"
-         y="590" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,590 h 15 v 1 h -15 z"
-         id="path4998-0-8" />
-    </g>
-    <g
-       id="selected+hover-bottom"
-       inkscape:label="#bottom"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <rect
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
-         id="rect4990-3-5"
-         width="15"
-         height="5"
-         x="225"
-         y="610" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,615 h 15 v -1 h -15 z"
-         id="path5000-6-0" />
-    </g>
-    <g
-       id="selected+hover-topleft"
-       inkscape:label="#topleft"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <path
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,590 c -3,0 -5,2 -5,5 h 5 z"
-         id="path5002-6-6"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,595 c 0,-3 2,-5 5,-5 v 1 c -2,0 -4,2 -4,4 z"
-         id="path5033-2-1"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="selected+hover-topright"
-       inkscape:label="#topright"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <path
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 245,595 c 0,-3 -2,-5 -5,-5 v 5 z"
-         id="path5002-4-1-6"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 240,590 c 3,0 5,2 5,5 h -1 c 0,-2 -2,-4 -4,-4 z"
-         id="path5033-6-8-3"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="selected+hover-bottomright"
-       inkscape:label="#bottomright"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <path
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 240,615 c 3,0 5,-2 5,-5 h -5 z"
-         id="path5002-44-9-0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 245,610 c 0,3 -2,5 -5,5 v -1 c 2,0 4,-2 4,-4 z"
-         id="path5033-3-2-6"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="selected+hover-bottomleft"
-       inkscape:label="#bottomleft"
-       transform="translate(59.999901,-1.3792969e-4)">
-      <path
-         style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220,610 c 0,3 2,5 5,5 v -5 z"
-         id="path5002-7-2-5"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#0b7cb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 225,615 c -3,0 -5,-2 -5,-5 h 1 c 0,2 2,4 4,4 z"
-         id="path5033-1-3-5"
-         sodipodi:nodetypes="ccccc" />
-    </g>
+    <rect
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999996;stroke-opacity:0"
+       id="selected_hover-left"
+       width="5"
+       height="14.999981"
+       x="279.99991"
+       y="594.99988" />
+    <rect
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-width:0.999996;stroke-opacity:0"
+       id="selected_hover-right"
+       width="5"
+       height="14.999981"
+       x="299.99991"
+       y="594.99988" />
+    <rect
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
+       id="selected_hover-top"
+       width="15"
+       height="5"
+       x="284.99991"
+       y="589.99988" />
+    <rect
+       style="opacity:0.8;fill:#0b7cb6;fill-opacity:1;stroke-width:1;stroke-opacity:0"
+       id="selected_hover-bottom"
+       width="15"
+       height="5.0000148"
+       x="284.99991"
+       y="609.99982" />
+    <path
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 284.9999,589.99986 c -4.99999,-2e-5 -4.99999,-2e-5 -5,5 h 5 z"
+       id="selected_hover-topleft"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 304.9999,594.99986 c 10e-6,-5.00002 10e-6,-5.00002 -5,-5 v 5 z"
+       id="selected_hover-topright"
+       sodipodi:nodetypes="cccc" />
     <rect
        style="fill:#1b1b1b;fill-opacity:1;stroke-opacity:0.3"
        id="hint-stretch-borders"
@@ -461,5 +195,48 @@
        x="214.99991"
        y="579.99988"
        inkscape:label="#hint-stretch-borders" />
+    <path
+       style="fill:#0a7db9;fill-opacity:0.2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 224.99991,589.99984 c -5,0 -5,0 -5,5 h 5 z"
+       id="hover-topleft"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0a7db9;fill-opacity:0.2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.99991,589.99984 v 5 h 5 c 0,-5 0,-5 -5,-5 z"
+       id="hover-topright"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0a7db9;fill-opacity:0.2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.99991,614.99984 c 5,0 5,0 5,-5 h -5 z"
+       id="hover-bottomright"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke-opacity:0"
+       id="selected-bottom"
+       width="15"
+       height="5"
+       x="-269.99994"
+       y="-614.99988"
+       transform="scale(-1)" />
+    <path
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 269.99991,614.99984 c 5,0 5,0 5,-5 h -5 z"
+       id="selected-bottomright"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.5;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 249.99991,609.99984 c 0,5 0,5 5,5 v -5 z"
+       id="selected-bottomleft"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 279.9999,609.99986 c 10e-6,4.99998 10e-6,4.99998 5,5 v -5 z"
+       id="selected_hover-bottomleft"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.8;fill:#0b7cb7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 299.99991,614.99984 c 5,0 5,0 5,-5 h -5 z"
+       id="selected_hover-bottomright"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

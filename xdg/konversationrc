@@ -11,7 +11,7 @@ Realname=Plasma-Live
 
 [Server 0]
 Port=6667
-Server=chat.freenode.net
+Server=irc.libera.chat
 
 [ServerGroup 0]
 AutoConnect=ture
