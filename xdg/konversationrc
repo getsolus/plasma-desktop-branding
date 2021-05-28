@@ -10,7 +10,8 @@ Nicknames=Plasma-Live,Plasma-Live_,Plasma-Live__
 Realname=Plasma-Live
 
 [Server 0]
-Port=6667
+SSLEnabled=true
+Port=6697
 Server=irc.libera.chat
 
 [ServerGroup 0]
