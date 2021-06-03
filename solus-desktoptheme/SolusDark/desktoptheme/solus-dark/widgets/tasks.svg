@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.903824"
-     inkscape:cx="37.203653"
-     inkscape:cy="59.876315"
+     inkscape:zoom="8.6266237"
+     inkscape:cx="36.505568"
+     inkscape:cy="31.299607"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="2514"
-     inkscape:window-height="1327"
-     inkscape:window-x="46"
-     inkscape:window-y="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="2560"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      fit-margin-left="2"
      fit-margin-top="2"
@@ -901,7 +901,7 @@
        transform="scale(1,-1)" />
     <rect
        style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85"
-       id="norht-progress-top"
+       id="north-progress-top"
        width="15"
        height="3"
        x="255"
@@ -939,7 +939,7 @@
          rx="2.9970501e-05" />
     </g>
     <g
-       id="noth-progress-topleft"
+       id="north-progress-topleft"
        style="stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(1,0,0,-1,30,945)">
       <rect
@@ -981,7 +981,7 @@
          rx="2.9970501e-05" />
     </g>
     <g
-       id="noth-progress-bottomright"
+       id="north-progress-bottomright"
        style="stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(1,0,0,-1,30,945)">
       <rect
