@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="37.78125mm"
    height="19.260416mm"
    viewBox="0 0 142.79528 72.795274"
    version="1.1"
    id="svg4399"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="background.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="background.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4393">
     <linearGradient
@@ -289,21 +289,22 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="18.506101"
-     inkscape:cx="77.7519"
-     inkscape:cy="36.355717"
+     inkscape:cx="69.031289"
+     inkscape:cy="36.366385"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1280"
+     inkscape:window-height="1373"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      fit-margin-left="5"
      fit-margin-top="5"
      fit-margin-bottom="5"
-     fit-margin-right="5">
+     fit-margin-right="5"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4980"
@@ -397,7 +398,8 @@
     </g>
     <g
        id="topleft"
-       inkscape:label="#topleft">
+       inkscape:label="#topleft"
+       transform="translate(-8e-5,-1.3e-4)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 225,590 c -3,0 -5,2 -5,5 h 5 z"
@@ -411,7 +413,8 @@
     </g>
     <g
        id="topright"
-       inkscape:label="#topright">
+       inkscape:label="#topright"
+       transform="translate(-8e-5,-1.3e-4)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 245,595 c 0,-3 -2,-5 -5,-5 v 5 z"
@@ -425,7 +428,8 @@
     </g>
     <g
        id="bottomright"
-       inkscape:label="#bottomright">
+       inkscape:label="#bottomright"
+       transform="translate(-8e-5,-1.3e-4)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 240,615 c 3,0 5,-2 5,-5 h -5 z"
@@ -439,7 +443,8 @@
     </g>
     <g
        id="bottomleft"
-       inkscape:label="#bottomleft">
+       inkscape:label="#bottomleft"
+       transform="translate(-8e-5,-1.3e-4)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 220,610 c 0,3 2,5 5,5 v -5 z"
@@ -460,11 +465,11 @@
        y="595"
        inkscape:label="#mask-center" />
     <g
-       id="g5092-3"
+       id="mask-left"
        transform="translate(80)">
       <rect
          style="fill:#1b1b1b;fill-opacity:1;stroke-opacity:0"
-         id="mask-left"
+         id="mask-left2"
          width="5"
          height="15"
          x="220"
@@ -472,11 +477,11 @@
          inkscape:label="#mask-left" />
     </g>
     <g
-       id="g5076-8"
+       id="mask-right"
        transform="translate(80)">
       <rect
          style="fill:#1b1b1b;fill-opacity:1;stroke-opacity:0"
-         id="mask-right"
+         id="mask-right2"
          width="5"
          height="15"
          x="240"
@@ -484,11 +489,11 @@
          inkscape:label="#mask-right" />
     </g>
     <g
-       id="g5068-4"
+       id="mask-top"
        transform="translate(80)">
       <rect
          style="fill:#1b1b1b;fill-opacity:1;stroke-opacity:0"
-         id="mask-top"
+         id="mask-top2"
          width="15"
          height="5"
          x="225"
@@ -496,11 +501,11 @@
          inkscape:label="#mask-top" />
     </g>
     <g
-       id="g5084-8"
+       id="mask-bottom"
        transform="translate(80)">
       <rect
          style="fill:#1b1b1b;fill-opacity:1;stroke-opacity:0"
-         id="mask-bottom"
+         id="mask-bottom2"
          width="15"
          height="5"
          x="225"
@@ -508,42 +513,42 @@
          inkscape:label="#mask-bottom" />
     </g>
     <g
-       id="g5064-7"
+       id="mask-topleft"
        transform="translate(80)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 225,590 c -3,0 -5,2 -5,5 h 5 z"
-         id="mask-topleft"
+         id="mask-topleft2"
          sodipodi:nodetypes="cccc"
          inkscape:label="#mask-topleft" />
     </g>
     <g
-       id="g5072-3"
+       id="mask-topright"
        transform="translate(80)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 245,595 c 0,-3 -2,-5 -5,-5 v 5 z"
-         id="mask-topright"
+         id="mask-topright2"
          sodipodi:nodetypes="cccc"
          inkscape:label="#mask-topright" />
     </g>
     <g
-       id="g5080-0"
+       id="mask-bottomright"
        transform="translate(80)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 240,615 c 3,0 5,-2 5,-5 h -5 z"
-         id="mask-bottomright"
+         id="mask-bottomright2"
          sodipodi:nodetypes="cccc"
          inkscape:label="#mask-bottomright" />
     </g>
     <g
-       id="g5088-5"
+       id="mask-bottomleft"
        transform="translate(80)">
       <path
          style="fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 220,610 c 0,3 2,5 5,5 v -5 z"
-         id="mask-bottomleft"
+         id="mask-bottomleft2"
          sodipodi:nodetypes="cccc"
          inkscape:label="#mask-bottomleft" />
     </g>
