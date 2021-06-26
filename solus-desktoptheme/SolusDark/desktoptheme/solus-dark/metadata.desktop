@@ -26,3 +26,6 @@ saturation=1.7
 
 [Desktop Entry]
 X-KDE-PluginInfo-Version=0.0.8
+
+[AdaptiveTransparency]
+enabled=true
