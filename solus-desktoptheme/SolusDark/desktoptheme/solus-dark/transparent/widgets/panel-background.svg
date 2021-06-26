@@ -62,7 +62,7 @@
        x2="232.99992"
        y2="589.99988"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2666667,0,0,1.2666657,-62.000115,-160.66621)" />
+       gradientTransform="matrix(1.2666667,0,0,1.2666657,-62.000118,-160.66623)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5435"
@@ -291,16 +291,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.522935"
-     inkscape:cx="105.05136"
-     inkscape:cy="48.642121"
+     inkscape:zoom="23.04587"
+     inkscape:cx="61.724726"
+     inkscape:cy="40.375998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1373"
-     inkscape:window-x="0"
+     inkscape:window-x="2560"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
      fit-margin-left="2"
@@ -619,36 +619,36 @@
        id="bottomleft"
        sodipodi:nodetypes="cccc" />
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.894399;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.1832;stroke-opacity:0"
        id="hint-top-margin"
        width="1"
-       height="3.9997525"
+       height="6.9998293"
        x="232"
        y="590"
        inkscape:label="#hint-top-margin" />
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.89444;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.18322;stroke-opacity:0"
        id="hint-right-margin"
-       width="4.0001163"
+       width="7.000123"
        height="1"
-       x="240.99989"
+       x="237.99989"
        y="602"
        inkscape:label="#hint-right-margin" />
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.894413;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.18321;stroke-opacity:0"
        id="hint-left-margin"
-       width="3.999871"
+       width="6.9998946"
        height="1"
        x="220"
        y="602"
        inkscape:label="#hint-left-margin" />
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.894447;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.18323;stroke-opacity:0"
        id="hint-bottom-margin"
        width="1"
-       height="4.000176"
+       height="7.0002122"
        x="232"
-       y="610.99988"
+       y="607.99988"
        inkscape:label="#hint-bottom-margin" />
     <rect
        style="opacity:1;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-opacity:0"
@@ -659,36 +659,36 @@
        y="579.99988"
        inkscape:label="#hint-stretch-borders" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.632438;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.4142;stroke-opacity:0"
        id="thick-hint-left-margin"
-       width="1.9998872"
+       width="9.9998598"
        height="1"
        x="220"
        y="600"
        inkscape:label="#thick-hint-left-margin" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.632434;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.34163;stroke-opacity:0"
        id="thick-hint-top-margin"
        width="1"
-       height="1.9998487"
+       height="8.9997282"
        x="234"
        y="590"
        inkscape:label="#thick-hint-top-margin" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.632473;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.34165;stroke-opacity:0"
        id="thick-hint-right-margin"
-       width="2.0001171"
+       width="9.0001202"
        height="1"
-       x="242.99989"
+       x="235.99989"
        y="604"
        inkscape:label="#thick-hint-right-margin" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.632483;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.34166;stroke-opacity:0"
        id="thick-hint-bottom-margin"
        width="1"
-       height="2.0001662"
+       height="9.0001841"
        x="230"
-       y="612.99988"
+       y="605.99988"
        inkscape:label="#thick-hint-bottom-margin" />
   </g>
 </svg>

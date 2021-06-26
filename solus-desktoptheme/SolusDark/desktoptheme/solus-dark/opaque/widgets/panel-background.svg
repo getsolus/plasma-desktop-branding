@@ -225,16 +225,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.585334"
-     inkscape:cx="117.26032"
-     inkscape:cy="42.683276"
+     inkscape:zoom="23.170668"
+     inkscape:cx="55.565942"
+     inkscape:cy="39.640635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1373"
-     inkscape:window-x="0"
+     inkscape:window-x="2560"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
      fit-margin-left="5"
@@ -625,36 +625,36 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.894408;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.18321;stroke-opacity:0"
        id="hint-top-margin"
        width="1"
-       height="3.9998224"
+       height="6.9998689"
        x="232"
        y="590"
        inkscape:label="#hint-top-margin" />
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.894436;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.18323;stroke-opacity:0"
        id="hint-right-margin"
-       width="4.0000877"
+       width="7.0000954"
        height="1"
-       x="240.99992"
+       x="237.99992"
        y="602"
        inkscape:label="#hint-right-margin" />
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.894415;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.18321;stroke-opacity:0"
        id="hint-left-margin"
-       width="3.9998977"
+       width="6.9999228"
        height="1"
        x="220"
        y="602"
        inkscape:label="#hint-left-margin" />
     <rect
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.894443;stroke-opacity:0"
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.18322;stroke-opacity:0"
        id="hint-bottom-margin"
        width="1"
-       height="4.0001459"
+       height="7.0001621"
        x="232"
-       y="610.99988"
+       y="607.99988"
        inkscape:label="#hint-bottom-margin" />
     <rect
        style="opacity:1;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-opacity:0"
@@ -665,36 +665,36 @@
        y="569.99988"
        inkscape:label="#hint-stretch-borders" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.632443;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.34163;stroke-opacity:0"
        id="thick-hint-left-margin"
-       width="1.999917"
+       width="8.9998903"
        height="1"
        x="220"
        y="600"
        inkscape:label="#thick-hint-left-margin" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.632437;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.34163;stroke-opacity:0"
        id="thick-hint-top-margin"
        width="1"
-       height="1.9998636"
+       height="8.9998055"
        x="234"
        y="590"
        inkscape:label="#thick-hint-top-margin" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.632469;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.34165;stroke-opacity:0"
        id="thick-hint-right-margin"
-       width="2.0000916"
+       width="9.0000954"
        height="1"
-       x="242.99992"
+       x="235.99992"
        y="604"
        inkscape:label="#thick-hint-right-margin" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.63248;stroke-opacity:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.34166;stroke-opacity:0"
        id="thick-hint-bottom-margin"
        width="1"
-       height="2.0001462"
+       height="9.0001545"
        x="230"
-       y="612.99988"
+       y="605.99988"
        inkscape:label="#thick-hint-bottom-margin" />
   </g>
 </svg>
