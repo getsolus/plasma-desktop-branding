@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="119"
+   height="44"
+   viewBox="0 0 119 44"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="viewitem.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="true"
+     fit-margin-left="2"
+     fit-margin-top="2"
+     fit-margin-bottom="2"
+     fit-margin-right="2"
+     units="px"
+     scale-x="1"
+     inkscape:zoom="14.496699"
+     inkscape:cx="56.909507"
+     inkscape:cy="26.385317"
+     inkscape:window-width="2560"
+     inkscape:window-height="1232"
+     inkscape:window-x="0"
+     inkscape:window-y="46"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid928"
+       originx="-263"
+       originy="-343" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-263,-343)">
+    <rect
+       style="opacity:0.35;fill-opacity:1;fill-rule:nonzero;fill:#0a7db9"
+       id="center"
+       width="15"
+       height="15"
+       x="280"
+       y="360" />
+    <rect
+       style="opacity:0.35;fill-opacity:1;fill-rule:evenodd;fill:#0a7db9"
+       id="hover-right"
+       width="5"
+       height="15"
+       x="295"
+       y="360" />
+    <rect
+       style="opacity:0.35;fill-opacity:1;fill-rule:nonzero;fill:#0a7db9"
+       id="hover-top"
+       width="15"
+       height="5"
+       x="280"
+       y="355" />
+    <rect
+       style="opacity:0.35;fill-opacity:1;fill-rule:evenodd;fill:#0a7db9"
+       id="hover-left"
+       width="5"
+       height="15"
+       x="275"
+       y="360" />
+    <rect
+       style="opacity:0.35;fill-opacity:1;fill-rule:evenodd;fill:#0a7db9"
+       id="hover-bottom"
+       width="15"
+       height="5"
+       x="280"
+       y="375" />
+    <path
+       d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
+       id="hover-topright"
+       sodipodi:nodetypes="cccc"
+       style="opacity:0.35;fill-opacity:1;fill-rule:nonzero;fill:#0a7db9" />
+    <path
+       d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
+       id="hover-topleft"
+       sodipodi:nodetypes="cccc"
+       style="opacity:0.35;fill-opacity:1;fill-rule:nonzero;fill:#0a7db9" />
+    <path
+       d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
+       id="hover-bottomleft"
+       sodipodi:nodetypes="cccc"
+       style="opacity:0.35;fill-opacity:1;fill-rule:nonzero;fill:#0a7db9" />
+    <path
+       d="m 300,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
+       id="hover-bottomright"
+       sodipodi:nodetypes="cccc"
+       style="opacity:0.35;fill-opacity:1;fill-rule:nonzero;fill:#0a7db9" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.8"
+       id="selected-center"
+       width="15"
+       height="15"
+       x="315"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.8"
+       id="selected-right"
+       width="5"
+       height="15"
+       x="330"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.8"
+       id="selected-top"
+       width="15"
+       height="5"
+       x="315"
+       y="355" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.8"
+       id="selected-left"
+       width="5"
+       height="15"
+       x="310"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.8"
+       id="selected-bottom"
+       width="15"
+       height="5"
+       x="315"
+       y="375" />
+    <path
+       d="m 330,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
+       id="selected-topright"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.8" />
+    <path
+       d="m 310,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
+       id="selected-topleft"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.8" />
+    <path
+       d="m 315,380 v -5 h -5 c 0,2 3,5 5,5 z"
+       id="selected-bottomleft"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.8" />
+    <path
+       d="m 335,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
+       id="selected-bottomright"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.8" />
+    <rect
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.6"
+       id="hint-stretch-borders"
+       width="3"
+       height="3"
+       x="270"
+       y="350" />
+    <g
+       id="g4866">
+      <g
+         id="g4869" />
+    </g>
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:1"
+       id="selected+hover-center"
+       width="15"
+       height="15"
+       x="350"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:1"
+       id="selected+hover-right"
+       width="5"
+       height="15"
+       x="365"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:1"
+       id="selected+hover-top"
+       width="15"
+       height="5"
+       x="350"
+       y="355" />
+    <rect
+       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       id="selected+hover-left"
+       height="15"
+       x="345"
+       y="360"
+       width="5" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:1"
+       id="selected+hover-bottom"
+       width="15"
+       height="5"
+       x="350"
+       y="375" />
+    <path
+       d="m 365,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
+       id="selected+hover-topright"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:1" />
+    <path
+       d="m 345,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
+       id="selected+hover-topleft"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:1" />
+    <path
+       d="m 350,380 v -5 h -5 c 0,2 3,5 5,5 z"
+       id="selected+hover-botttomleft"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:1" />
+    <path
+       d="m 370,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
+       id="selected+hover-bottomright"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="119"
+   height="44"
+   viewBox="0 0 119 44"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="plasmoidheading.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="true"
+     fit-margin-left="2"
+     fit-margin-top="2"
+     fit-margin-bottom="2"
+     fit-margin-right="2"
+     units="px"
+     scale-x="1"
+     inkscape:zoom="14.496699"
+     inkscape:cx="30.972568"
+     inkscape:cy="26.385317"
+     inkscape:window-width="2560"
+     inkscape:window-height="1232"
+     inkscape:window-x="0"
+     inkscape:window-y="46"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid928"
+       originx="-263"
+       originy="-343" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-263,-343)">
+    <g
+       id="g4866">
+      <g
+         id="g4869" />
+    </g>
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7"
+       id="header-center"
+       width="15"
+       height="15"
+       x="280"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.7"
+       id="header-right"
+       width="5"
+       height="15"
+       x="295"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7"
+       id="header-top"
+       width="15"
+       height="5"
+       x="280"
+       y="355" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.7"
+       id="header-left"
+       width="5"
+       height="15"
+       x="275"
+       y="360" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.7"
+       id="header-bottom"
+       width="15"
+       height="5"
+       x="280"
+       y="375" />
+    <path
+       d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
+       id="header-topright"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7" />
+    <path
+       d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
+       id="header-topleft"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7" />
+    <rect
+       style="opacity:0.7;fill:#0a7db9;stroke-opacity:0.31;fill-opacity:1"
+       id="header-bottomleft"
+       width="5"
+       height="5"
+       x="275"
+       y="375" />
+    <rect
+       style="opacity:0.7;fill:#0a7db9;stroke-opacity:0.31;fill-opacity:1"
+       id="header-bottomright"
+       width="5"
+       height="5"
+       x="295"
+       y="375" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7"
+       id="footer-center"
+       width="15"
+       height="15"
+       x="315"
+       y="-375"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.7"
+       id="footer-right"
+       width="5"
+       height="15"
+       x="330"
+       y="-375"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7"
+       id="footer-bottom"
+       width="15"
+       height="5"
+       x="315"
+       y="-380"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.7"
+       id="footer-left"
+       width="5"
+       height="15"
+       x="310"
+       y="-375"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;opacity:0.7"
+       id="footer-top"
+       width="15"
+       height="5"
+       x="315"
+       y="-360"
+       transform="scale(1,-1)" />
+    <path
+       d="m 330,380 v -5 h 5 c 0,2 -3,5 -5,5 z"
+       id="footer-bottomright"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7" />
+    <path
+       d="m 310,375 h 5 v 5 c -2,0 -5,-3 -5,-5 z"
+       id="footer-bottomleft"
+       sodipodi:nodetypes="cccc"
+       style="fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;opacity:0.7" />
+    <rect
+       style="fill:#0a7db9;stroke-opacity:0.31;fill-opacity:1;opacity:0.7"
+       id="footer-topleft"
+       width="5"
+       height="5"
+       x="310"
+       y="-360"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#0a7db9;stroke-opacity:0.31;fill-opacity:1;opacity:0.7"
+       id="footer-topright"
+       width="5"
+       height="5"
+       x="330"
+       y="-360"
+       transform="scale(1,-1)" />
+  </g>
+</svg>
