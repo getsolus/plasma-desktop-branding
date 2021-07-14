@@ -31,7 +31,7 @@
      units="px"
      scale-x="1"
      inkscape:zoom="14.496699"
-     inkscape:cx="23.315653"
+     inkscape:cx="52.080822"
      inkscape:cy="27.730451"
      inkscape:window-width="2560"
      inkscape:window-height="1272"
@@ -377,35 +377,35 @@
      id="layer1"
      transform="translate(-268,-348)">
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
        id="center"
        width="15"
        height="15"
        x="280"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
        id="right"
        width="5"
        height="15"
        x="295"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
        id="top"
        width="15"
        height="5"
        x="280"
        y="355" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
        id="left"
        width="5"
        height="15"
        x="275"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
        id="bottom"
        width="15"
        height="5"
@@ -415,22 +415,22 @@
        d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
        id="topright"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
     <path
        d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
        id="topleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
     <path
        d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
        id="bottomleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
     <path
        d="m 300,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
        id="bottomright"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero"
        id="mask-center"

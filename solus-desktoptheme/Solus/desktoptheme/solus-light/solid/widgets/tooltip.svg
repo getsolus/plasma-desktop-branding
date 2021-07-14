@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="114"
-   height="39"
-   viewBox="0 0 114 39"
+   width="119"
+   height="44"
+   viewBox="0 0 119 44"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -31,8 +31,8 @@
      units="px"
      scale-x="1"
      inkscape:zoom="14.496699"
-     inkscape:cx="23.315653"
-     inkscape:cy="27.730451"
+     inkscape:cx="1.4486056"
+     inkscape:cy="21.660103"
      inkscape:window-width="2560"
      inkscape:window-height="1272"
      inkscape:window-x="0"
@@ -42,8 +42,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid928"
-       originx="-268"
-       originy="-348" />
+       originx="-263"
+       originy="-343" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -375,37 +375,37 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-268,-348)">
+     transform="translate(-263,-343)">
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
        id="center"
        width="15"
        height="15"
        x="280"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:evenodd;fill:#ffffff"
        id="right"
        width="5"
        height="15"
        x="295"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#ffffff"
        id="top"
        width="15"
        height="5"
        x="280"
        y="355" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:evenodd;fill:#ffffff"
        id="left"
        width="5"
        height="15"
        x="275"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:0.6;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:evenodd;fill:#ffffff"
        id="bottom"
        width="15"
        height="5"
@@ -415,22 +415,22 @@
        d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
        id="topright"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#ffffff" />
     <path
        d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
        id="topleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#ffffff" />
     <path
        d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
        id="bottomleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#ffffff" />
     <path
        d="m 300,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
        id="bottomright"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:0.6;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#ffffff" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero"
        id="mask-center"
@@ -494,7 +494,7 @@
        x="275"
        y="367" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:1"
        id="hint-top-margin"
        width="1"
        height="5"
@@ -547,7 +547,7 @@
        id="hint-stretch-borders"
        width="3"
        height="3"
-       x="270"
+       x="275"
        y="350" />
     <g
        id="g4866">

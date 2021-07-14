@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="119"
-   height="44"
-   viewBox="0 0 119 44"
+   width="114"
+   height="39"
+   viewBox="0 0 114 39"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -31,19 +31,19 @@
      units="px"
      scale-x="1"
      inkscape:zoom="14.496699"
-     inkscape:cx="23.281162"
-     inkscape:cy="32.731589"
-     inkscape:window-width="1497"
-     inkscape:window-height="1088"
-     inkscape:window-x="299"
-     inkscape:window-y="116"
-     inkscape:window-maximized="0"
+     inkscape:cx="18.280024"
+     inkscape:cy="27.730451"
+     inkscape:window-width="2560"
+     inkscape:window-height="1272"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid928"
-       originx="-263"
-       originy="-343" />
+       originx="-268"
+       originy="-348" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -418,9 +418,9 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-263,-343)">
+     transform="translate(-268,-348)">
     <rect
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;fill:url(#linearGradient967)"
+       style="opacity:1;fill:url(#linearGradient967);fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="center"
        width="15"
        height="15"
@@ -428,7 +428,7 @@
        y="360"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:1;fill-opacity:1.0;fill-rule:evenodd;fill:url(#linearGradient10923)"
+       style="opacity:1;fill:url(#linearGradient10923);fill-opacity:1;fill-rule:evenodd"
        id="right"
        width="5"
        height="15"
@@ -436,7 +436,7 @@
        y="360"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:0.5;fill-opacity:1;fill-rule:nonzero;fill:#1b1b1b"
+       style="opacity:0.5;fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero"
        id="top"
        width="15"
        height="5"
@@ -444,7 +444,7 @@
        y="355"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:1;fill-opacity:1.0;fill-rule:evenodd;fill:url(#linearGradient10933)"
+       style="opacity:1;fill:url(#linearGradient10933);fill-opacity:1;fill-rule:evenodd"
        id="left"
        width="5"
        height="15"
@@ -452,7 +452,7 @@
        y="360"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:0.6;fill-opacity:1;fill-rule:evenodd;fill:#000000"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd"
        id="bottom"
        width="15"
        height="5"
@@ -463,25 +463,25 @@
        d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
        id="topright"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.5;fill-opacity:1;fill-rule:nonzero;fill:#1b1b1b"
+       style="opacity:0.5;fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero"
        class="ColorScheme-Background" />
     <path
        d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
        id="topleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.5;fill-opacity:1;fill-rule:nonzero;fill:#1b1b1b"
+       style="opacity:0.5;fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero"
        class="ColorScheme-Background" />
     <path
        d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
        id="bottomleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.6;fill-opacity:1;fill-rule:nonzero;fill:#000000"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero"
        class="ColorScheme-Background" />
     <path
        d="m 300,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
        id="bottomright"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.6;fill-opacity:1;fill-rule:nonzero;fill:#000000"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero"
        class="ColorScheme-Background" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero"
@@ -546,7 +546,7 @@
        x="275"
        y="367" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:1"
        id="hint-top-margin"
        width="1"
        height="5"
@@ -567,40 +567,40 @@
        x="287"
        y="375" />
     <rect
-       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero"
-       id="thick-hint-left-margin"
-       width="7"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.0119523"
+       id="hint-left-inset"
+       width="0.001"
        height="1"
        x="275"
        y="366" />
     <rect
-       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero"
-       id="thick-hint-top-margin"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.0119523"
+       id="hint-top-inset"
        width="1"
-       height="7"
+       height="0.001"
        x="288"
        y="355" />
     <rect
-       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero"
-       id="thick-hint-right-margin"
-       width="7"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.0119523"
+       id="hint-right-inset"
+       width="0.001"
        height="1"
-       x="293"
+       x="300"
        y="368" />
     <rect
-       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero"
-       id="thick-hint-bottom-margin"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.0119523"
+       id="hint-bottom-inset"
        width="1"
-       height="7"
+       height="0.001"
        x="286"
-       y="373" />
+       y="380" />
     <rect
        style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.6"
        id="hint-stretch-borders"
        width="3"
        height="3"
-       x="265"
-       y="345" />
+       x="270"
+       y="350" />
     <g
        id="g4866">
       <g
