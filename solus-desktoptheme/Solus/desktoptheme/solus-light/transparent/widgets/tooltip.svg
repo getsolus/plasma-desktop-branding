@@ -34,7 +34,7 @@
      inkscape:cx="1.4486056"
      inkscape:cy="21.660103"
      inkscape:window-width="2560"
-     inkscape:window-height="1272"
+     inkscape:window-height="1274"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -487,33 +487,35 @@
        sodipodi:nodetypes="cccc"
        style="fill:#000000;fill-opacity:1" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.632458"
        id="hint-left-margin"
-       width="5"
+       width="2"
        height="1"
-       x="275"
+       x="280"
        y="367" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:1"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.632458"
        id="hint-top-margin"
        width="1"
-       height="5"
+       height="2"
        x="287"
-       y="355" />
+       y="360" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.632456"
        id="hint-right-margin"
-       width="5"
+       width="2"
        height="1"
-       x="295"
-       y="367" />
+       x="-295"
+       y="367"
+       transform="scale(-1,1)" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.632456"
        id="hint-bottom-margin"
        width="1"
-       height="5"
+       height="2"
        x="287"
-       y="375" />
+       y="-375"
+       transform="scale(1,-1)" />
     <rect
        style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.0119523"
        id="hint-left-inset"
@@ -544,7 +546,7 @@
        y="380" />
     <rect
        style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.6"
-       id="hint-stretch-borders"
+       id="hint-tile-center"
        width="3"
        height="3"
        x="275"

@@ -32,11 +32,11 @@
      inkscape:zoom="14.496699"
      inkscape:cx="25.661014"
      inkscape:cy="21.384179"
-     inkscape:window-width="2560"
-     inkscape:window-height="1272"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1512"
+     inkscape:window-height="860"
+     inkscape:window-x="80"
+     inkscape:window-y="230"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -57,43 +57,50 @@
          id="g4869" />
     </g>
     <rect
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="header-center"
        width="15"
        height="15"
        x="280"
-       y="360" />
+       y="360"
+       class="ColorScheme-Background"
+       opacity="0.4"
+       fill="#0a7db9" />
     <rect
        style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="header-right"
        width="5"
        height="15"
        x="295"
-       y="360" />
+       y="360"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="header-top"
        width="15"
        height="5"
        x="280"
-       y="355" />
+       y="355"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="header-left"
        width="5"
        height="15"
        x="275"
-       y="360" />
+       y="360"
+       class="ColorScheme-Background" />
     <path
        d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
        id="header-topright"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
+       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       class="ColorScheme-Background" />
     <path
        d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
        id="header-topleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
+       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="footer-center"
@@ -137,7 +144,8 @@
        sodipodi:nodetypes="cccc"
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
     <g
-       id="header-bottom">
+       id="header-bottom"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
          id="rect9999"
@@ -154,7 +162,8 @@
          y="379" />
     </g>
     <g
-       id="header-bottomleft">
+       id="header-bottomleft"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.4;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="rect64353"
@@ -171,7 +180,8 @@
          y="379" />
     </g>
     <g
-       id="header-bottomright">
+       id="header-bottomright"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.4;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="react234"

@@ -377,28 +377,28 @@
      id="layer1"
      transform="translate(-273,-348)">
     <rect
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#0f0f0f"
        id="center"
        width="15"
        height="15"
        x="280"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:evenodd;fill:#0f0f0f"
        id="right"
        width="5"
        height="15"
        x="295"
        y="360" />
     <rect
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#0f0f0f"
        id="top"
        width="15"
        height="5"
        x="280"
        y="355" />
     <rect
-       style="opacity:1;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:evenodd;fill:#0f0f0f"
        id="left"
        width="5"
        height="15"
@@ -406,7 +406,7 @@
        y="360"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:1;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:1;fill-opacity:1;fill-rule:evenodd;fill:#0f0f0f"
        id="bottom"
        width="15"
        height="5"
@@ -416,22 +416,22 @@
        d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
        id="topright"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#0f0f0f" />
     <path
        d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
        id="topleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#0f0f0f" />
     <path
        d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
        id="bottomleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#0f0f0f" />
     <path
        d="m 300,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
        id="bottomright"
        sodipodi:nodetypes="cccc"
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero" />
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#0f0f0f" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero"
        id="mask-center"

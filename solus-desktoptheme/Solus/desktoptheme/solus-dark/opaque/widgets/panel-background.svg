@@ -52,7 +52,7 @@
      id="layer1"
      transform="translate(-268,-348)">
     <rect
-       style="opacity:1;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill-opacity:1;fill-rule:nonzero;fill:#000000"
        id="center"
        width="15"
        height="15"

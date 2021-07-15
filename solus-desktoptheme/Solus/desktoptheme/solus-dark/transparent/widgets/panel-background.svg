@@ -32,11 +32,11 @@
      scale-x="1"
      inkscape:zoom="14.496699"
      inkscape:cx="18.280024"
-     inkscape:cy="27.730451"
+     inkscape:cy="27.66147"
      inkscape:window-width="2560"
-     inkscape:window-height="1272"
+     inkscape:window-height="1228"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="46"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -47,22 +47,6 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1146">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.601"
-         offset="0"
-         id="stop1140" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.601"
-         offset="0.13333334"
-         id="stop1142" />
-      <stop
-         style="stop-color:#1b1b1b;stop-opacity:0.502"
-         offset="1"
-         id="stop1144" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient20574">
@@ -386,33 +370,6 @@
        r="5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1.7073416,2,0,-402.5,889.2759)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1146"
-       id="linearGradient967"
-       x1="288"
-       y1="375"
-       x2="288"
-       y2="360"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1146"
-       id="linearGradient10923"
-       x1="298"
-       y1="375"
-       x2="298"
-       y2="360"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1146"
-       id="linearGradient10933"
-       gradientUnits="userSpaceOnUse"
-       x1="277"
-       y1="375"
-       x2="277"
-       y2="360" />
   </defs>
   <g
      inkscape:label="Ebene 1"
@@ -420,7 +377,7 @@
      id="layer1"
      transform="translate(-268,-348)">
     <rect
-       style="opacity:1;fill:url(#linearGradient967);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd"
        id="center"
        width="15"
        height="15"
@@ -428,7 +385,7 @@
        y="360"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:1;fill:url(#linearGradient10923);fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd"
        id="right"
        width="5"
        height="15"
@@ -436,7 +393,7 @@
        y="360"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:0.5;fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd"
        id="top"
        width="15"
        height="5"
@@ -444,7 +401,7 @@
        y="355"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:1;fill:url(#linearGradient10933);fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd"
        id="left"
        width="5"
        height="15"
@@ -463,13 +420,13 @@
        d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
        id="topright"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.5;fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd"
        class="ColorScheme-Background" />
     <path
        d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
        id="topleft"
        sodipodi:nodetypes="cccc"
-       style="opacity:0.5;fill:#1b1b1b;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd"
        class="ColorScheme-Background" />
     <path
        d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
@@ -546,7 +503,7 @@
        x="275"
        y="367" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:1"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero"
        id="hint-top-margin"
        width="1"
        height="5"
@@ -596,7 +553,7 @@
        y="380" />
     <rect
        style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.6"
-       id="hint-stretch-borders"
+       id="hint-tile-center"
        width="3"
        height="3"
        x="270"
