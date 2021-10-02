@@ -31,11 +31,11 @@
      scale-x="1"
      inkscape:zoom="14.496699"
      inkscape:cx="46.90723"
-     inkscape:cy="16.348549"
+     inkscape:cy="16.38304"
      inkscape:window-width="2560"
      inkscape:window-height="1272"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="46"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -52,174 +52,232 @@
      id="layer1"
      transform="translate(-273,-353)">
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.35;fill:#097bb7;fill-opacity:1;fill-rule:nonzero"
        id="hover-center"
        width="15"
        height="15"
        x="280"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd"
        id="hover-right"
        width="5"
        height="15"
        x="295"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:nonzero"
        id="hover-top"
        width="15"
        height="5"
        x="280"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd"
        id="hover-left"
        width="5"
        height="15"
        x="275"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd"
        id="hover-bottom"
        width="15"
        height="5"
        x="280"
-       y="375" />
-    <path
-       d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
-       id="hover-topright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
-       id="hover-topleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
-       id="hover-bottomleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 300,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
-       id="hover-bottomright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
+       y="375"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
        id="selected-center"
        width="15"
        height="15"
        x="315"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected-right"
        width="5"
        height="15"
        x="330"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
        id="selected-top"
        width="15"
        height="5"
        x="315"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected-left"
        width="5"
        height="15"
        x="310"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected-bottom"
        width="15"
        height="5"
        x="315"
-       y="375" />
-    <path
-       d="m 330,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
-       id="selected-topright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 310,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
-       id="selected-topleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 315,380 v -5 h -5 c 0,2 3,5 5,5 z"
-       id="selected-bottomleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 335,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
-       id="selected-bottomright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
+       y="375"
+       class="ColorScheme-ButtonFocus" />
     <g
        id="g4866">
       <g
          id="g4869" />
     </g>
     <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
        id="selected+hover-center"
        width="15"
        height="15"
        x="350"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected+hover-right"
        width="5"
        height="15"
        x="365"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
        id="selected+hover-top"
        width="15"
        height="5"
        x="350"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected+hover-left"
        height="15"
        x="345"
        y="360"
-       width="5" />
+       width="5"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected+hover-bottom"
        width="15"
        height="5"
        x="350"
-       y="375" />
-    <path
-       d="m 365,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
-       id="selected+hover-topright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 345,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
+       y="375"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="hover-topleft"
+       width="5"
+       height="5"
+       x="275"
+       y="355"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="hover-topright"
+       width="5"
+       height="5"
+       x="295"
+       y="355"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="hover-bottomleft"
+       width="5"
+       height="5"
+       x="275"
+       y="375"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="hover-bottomright"
+       width="5"
+       height="5"
+       x="295"
+       y="375"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="selected-topleft"
+       width="5"
+       height="5"
+       x="310"
+       y="355"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="selected-topright"
+       width="5"
+       height="5"
+       x="330"
+       y="355"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="selected-bottomright"
+       width="5"
+       height="5"
+       x="330"
+       y="375"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="selected-bottomleft"
+       width="5"
+       height="5"
+       x="310"
+       y="375"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
        id="selected+hover-topleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 350,380 v -5 h -5 c 0,2 3,5 5,5 z"
-       id="selected+hover-botttomleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 370,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
+       height="5"
+       x="345"
+       y="355"
+       width="5"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="selected+hover-topright"
+       height="5"
+       x="365"
+       y="355"
+       width="5"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
        id="selected+hover-bottomright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
+       height="5"
+       x="365"
+       y="375"
+       width="5"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="selected+hover-bottomleft"
+       height="5"
+       x="345"
+       y="375"
+       width="5"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="fill:#ff6600"
+       id="hint-tile-center"
+       width="2"
+       height="2"
+       x="275"
+       y="351" />
   </g>
 </svg>

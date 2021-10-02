@@ -25,7 +25,7 @@ if (freeEdges["bottom"] == true) {
     panel.location = "top";
 }
 
-panel.height = 2 * Math.ceil(gridUnit * 2.5 / 2)
+panel.height = 2 * Math.floor(gridUnit * 2.5 / 2)
 
 const maximumAspectRatio = 21/9;
 if (panel.formFactor === "horizontal") {

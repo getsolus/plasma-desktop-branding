@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="109"
-   height="39"
-   viewBox="0 0 109 39"
+   width="111"
+   height="65.000999"
+   viewBox="0 0 111 65.000999"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -30,19 +30,19 @@
      units="px"
      scale-x="1"
      inkscape:zoom="14.496699"
-     inkscape:cx="53.805353"
-     inkscape:cy="11.174958"
+     inkscape:cx="56.288676"
+     inkscape:cy="39.491749"
      inkscape:window-width="2560"
-     inkscape:window-height="1272"
+     inkscape:window-height="1232"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="46"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid928"
-       originx="-273"
-       originy="-348" />
+       originx="-271"
+       originy="-317" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -50,7 +50,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-273,-348)">
+     transform="translate(-271,-317)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
        id="center"
@@ -91,30 +91,6 @@
        y="375"
        class="ColorScheme-Background"
        id="bottom" />
-    <path
-       d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
-       id="topright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
-       class="ColorScheme-Background" />
-    <path
-       d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
-       id="topleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
-       class="ColorScheme-Background" />
-    <path
-       d="m 280,380 v -5 h -5 c 0,2 3,5 5,5 z"
-       id="bottomleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
-       class="ColorScheme-Background" />
-    <path
-       d="m 300,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
-       id="bottomright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
-       class="ColorScheme-Background" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero"
        id="mask-center"
@@ -150,26 +126,6 @@
        height="5"
        x="360"
        y="375" />
-    <path
-       d="m 375,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
-       id="mask-topright"
-       sodipodi:nodetypes="cccc"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="m 355,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
-       id="mask-topleft"
-       sodipodi:nodetypes="cccc"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="m 360,380 v -5 h -5 c 0,2 3,5 5,5 z"
-       id="mask-bottomleft"
-       sodipodi:nodetypes="cccc"
-       style="fill:#000000;fill-opacity:1" />
-    <path
-       d="m 380,375 h -5 v 5 c 2,0 5,-3 5,-5 z"
-       id="mask-bottomright"
-       sodipodi:nodetypes="cccc"
-       style="fill:#000000;fill-opacity:1" />
     <rect
        style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero"
        id="hint-left-margin"
@@ -238,5 +194,110 @@
       <g
          id="g4869" />
     </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="left-1"
+       width="5"
+       height="5"
+       x="275"
+       y="355"
+       class="ColorScheme-Background" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="left-1-5"
+       width="5"
+       height="5"
+       x="295"
+       y="355"
+       class="ColorScheme-Background" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="left-1-4"
+       width="5"
+       height="5"
+       x="295"
+       y="375"
+       class="ColorScheme-Background" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="left-1-0"
+       width="5"
+       height="5"
+       x="275"
+       y="375"
+       class="ColorScheme-Background" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="mask-topleft"
+       width="5"
+       height="4.999999"
+       x="355"
+       y="355" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="mask-topright"
+       width="5"
+       height="4.999999"
+       x="375"
+       y="355" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="mask-bottomright"
+       width="5"
+       height="4.999999"
+       x="375"
+       y="375" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="mask-bottomleft"
+       width="5"
+       height="4.999999"
+       x="355"
+       y="375" />
+    <rect
+       style="fill:#ff6600;fill-opacity:0.01"
+       id="rect993"
+       width="1"
+       height="3"
+       x="287"
+       y="323" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke-width:0.942808"
+       id="thick-hint-top-margin"
+       width="1"
+       height="8"
+       x="287"
+       y="319" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke-width:0.942808"
+       id="thick-hint-bottom-margin"
+       width="1"
+       height="8"
+       x="287"
+       y="338" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke-width:0.942809"
+       id="thick-hint-right-margin"
+       width="1"
+       height="8"
+       x="336"
+       y="-301"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke-width:0.94281"
+       id="thick-hint-left-margin"
+       width="1"
+       height="8"
+       x="336"
+       y="-281"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.6;fill-rule:nonzero"
+       id="thick-center"
+       width="15"
+       height="15"
+       x="280"
+       y="325"
+       class="ColorScheme-Background" />
   </g>
 </svg>

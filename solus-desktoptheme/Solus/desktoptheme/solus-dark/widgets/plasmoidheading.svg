@@ -32,11 +32,11 @@
      inkscape:zoom="14.496699"
      inkscape:cx="25.661014"
      inkscape:cy="21.384179"
-     inkscape:window-width="1512"
-     inkscape:window-height="860"
-     inkscape:window-x="80"
-     inkscape:window-y="230"
-     inkscape:window-maximized="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1365"
+     inkscape:window-x="0"
+     inkscape:window-y="46"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -89,17 +89,13 @@
        x="275"
        y="360"
        class="ColorScheme-Background" />
-    <path
-       d="m 295,355 v 5 h 5 c 0,-2 -3,-5 -5,-5 z"
-       id="header-topright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
-       class="ColorScheme-Background" />
-    <path
-       d="m 275,360 h 5 v -5 c -2,0 -5,3 -5,5 z"
+    <rect
+       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
        id="header-topleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       width="5"
+       height="5"
+       x="275"
+       y="355"
        class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
@@ -108,7 +104,8 @@
        height="15"
        x="315"
        y="-375"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="footer-right"
@@ -116,7 +113,8 @@
        height="15"
        x="330"
        y="-375"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="footer-bottom"
@@ -124,7 +122,8 @@
        height="5"
        x="315"
        y="-380"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="footer-left"
@@ -132,17 +131,8 @@
        height="15"
        x="310"
        y="-375"
-       transform="scale(1,-1)" />
-    <path
-       d="m 330,380 v -5 h 5 c 0,2 -3,5 -5,5 z"
-       id="footer-bottomright"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
-    <path
-       d="m 310,375 h 5 v 5 c -2,0 -5,-3 -5,-5 z"
-       id="footer-bottomleft"
-       sodipodi:nodetypes="cccc"
-       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <g
        id="header-bottom"
        class="ColorScheme-Background">
@@ -198,7 +188,8 @@
          y="379" />
     </g>
     <g
-       id="footer-top">
+       id="footer-top"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
          id="reac765"
@@ -216,7 +207,8 @@
          y="355" />
     </g>
     <g
-       id="footer-topleft">
+       id="footer-topleft"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.3;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="rect867"
@@ -234,7 +226,8 @@
          y="355" />
     </g>
     <g
-       id="footer-topright">
+       id="footer-topright"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.3;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="rect765"
@@ -286,5 +279,31 @@
        height="3"
        x="270"
        y="350" />
+    <rect
+       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="header-topright"
+       width="5"
+       height="5"
+       x="295"
+       y="355"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;stroke-width:0.577351"
+       id="footer-bottomleft"
+       width="5"
+       height="5"
+       x="310"
+       y="-380"
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;stroke-width:0.577351"
+       id="footer-bottomright"
+       width="5"
+       height="5"
+       x="330"
+       y="-380"
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
   </g>
 </svg>
