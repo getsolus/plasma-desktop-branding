@@ -7,7 +7,7 @@
    viewBox="0 0 99 29"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="viewitem.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,14 +30,16 @@
      units="px"
      scale-x="1"
      inkscape:zoom="14.496699"
-     inkscape:cx="46.90723"
-     inkscape:cy="16.348549"
+     inkscape:cx="40.07809"
+     inkscape:cy="16.417531"
      inkscape:window-width="2560"
-     inkscape:window-height="1365"
-     inkscape:window-x="0"
-     inkscape:window-y="46"
+     inkscape:window-height="1359"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid928"
@@ -52,198 +54,227 @@
      id="layer1"
      transform="translate(-273,-353)">
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
-       id="center"
+       style="opacity:0.35;fill:#097bb7;fill-opacity:1;fill-rule:nonzero"
+       id="hover-center"
        width="15"
        height="15"
        x="280"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd"
        id="hover-right"
        width="5"
        height="15"
        x="295"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:nonzero"
        id="hover-top"
        width="15"
        height="5"
        x="280"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd"
        id="hover-left"
        width="5"
        height="15"
        x="275"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd"
        id="hover-bottom"
        width="15"
        height="5"
        x="280"
-       y="375" />
+       y="375"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
        id="selected-center"
        width="15"
        height="15"
        x="315"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected-right"
        width="5"
        height="15"
        x="330"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
        id="selected-top"
        width="15"
        height="5"
        x="315"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected-left"
        width="5"
        height="15"
        x="310"
-       y="360" />
+       y="360"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
        id="selected-bottom"
        width="15"
        height="5"
        x="315"
-       y="375" />
-    <g
-       id="g4866">
-      <g
-         id="g4869" />
-    </g>
+       y="375"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
-       id="selected+hover-center"
-       width="15"
-       height="15"
-       x="350"
-       y="360" />
-    <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
-       id="selected+hover-right"
-       width="5"
-       height="15"
-       x="365"
-       y="360" />
-    <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
-       id="selected+hover-top"
-       width="15"
-       height="5"
-       x="350"
-       y="355" />
-    <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
-       id="selected+hover-left"
-       height="15"
-       x="345"
-       y="360"
-       width="5" />
-    <rect
-       style="opacity:1;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
-       id="selected+hover-bottom"
-       width="15"
-       height="5"
-       x="350"
-       y="375" />
-    <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
        id="hover-topleft"
        width="5"
-       height="5.0000143"
+       height="5"
        x="275"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
        id="hover-topright"
        width="5"
-       height="5.0000143"
+       height="5"
        x="295"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
-       id="hover-bottomright"
-       width="5"
-       height="5.0000143"
-       x="295"
-       y="375" />
-    <rect
-       style="opacity:0.35;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
        id="hover-bottomleft"
        width="5"
-       height="5.0000143"
+       height="5"
        x="275"
-       y="375" />
+       y="375"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       style="opacity:0.35;fill:#0a7bb6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="hover-bottomright"
+       width="5"
+       height="5"
+       x="295"
+       y="375"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
        id="selected-topleft"
        width="5"
        height="5"
        x="310"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
        id="selected-topright"
        width="5"
        height="5"
        x="330"
-       y="355" />
+       y="355"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
        id="selected-bottomright"
        width="5"
        height="5"
        x="330"
-       y="375" />
+       y="375"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="opacity:0.8;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       style="opacity:0.8;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
        id="selected-bottomleft"
        width="5"
        height="5"
        x="310"
-       y="375" />
+       y="375"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
-       id="selected_hover-topleft"
-       height="4.9999919"
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
+       id="selected+hover-center"
+       width="15"
+       height="15"
+       x="350"
+       y="360"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
+       id="selected+hover-right"
+       width="5"
+       height="15"
+       x="365"
+       y="360"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:nonzero"
+       id="selected+hover-top"
+       width="15"
+       height="5"
+       x="350"
+       y="355"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
+       id="selected+hover-left"
+       height="15"
+       x="345"
+       y="360"
+       width="5"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="opacity:1;fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd"
+       id="selected+hover-bottom"
+       width="15"
+       height="5"
+       x="350"
+       y="375"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="selected+hover-topleft"
+       height="5"
        x="345"
        y="355"
-       width="5" />
+       width="5"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
-       id="selected_hover-topright"
-       height="4.9999919"
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="selected+hover-topright"
+       height="5"
        x="365"
        y="355"
-       width="5" />
+       width="5"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
-       id="selected_hover-bottomright"
-       height="4.9999919"
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="selected+hover-bottomright"
+       height="5"
        x="365"
        y="375"
-       width="5" />
+       width="5"
+       class="ColorScheme-ButtonFocus" />
     <rect
-       style="fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
-       id="selected_hover-bottomleft"
-       height="4.9999919"
+       style="fill:#0a7bb7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351"
+       id="selected+hover-bottomleft"
+       height="5"
        x="345"
        y="375"
-       width="5" />
+       width="5"
+       class="ColorScheme-ButtonFocus" />
+    <rect
+       style="fill:#ff6600"
+       id="hint-tile-center"
+       width="2"
+       height="2"
+       x="275"
+       y="351" />
   </g>
 </svg>

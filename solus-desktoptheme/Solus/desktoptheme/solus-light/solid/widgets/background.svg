@@ -33,8 +33,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="11.313709"
-     inkscape:cx="30.449784"
-     inkscape:cy="19.710601"
+     inkscape:cx="40.702832"
+     inkscape:cy="7.0710675"
      inkscape:window-width="2560"
      inkscape:window-height="1359"
      inkscape:window-x="2560"
@@ -346,7 +346,7 @@
        height="20"
        x="50"
        y="170"
-       style="fill:currentColor;opacity:0.6"
+       style="opacity:0.9;fill:currentColor"
        class="ColorScheme-Background" />
     <rect
        id="top"
@@ -354,7 +354,7 @@
        height="5"
        x="50"
        y="165"
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        class="ColorScheme-Background" />
     <rect
        id="right"
@@ -362,7 +362,7 @@
        height="20"
        x="70"
        y="170"
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        class="ColorScheme-Background" />
     <rect
        id="left"
@@ -370,7 +370,7 @@
        height="20"
        x="45"
        y="170"
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        class="ColorScheme-Background" />
     <rect
        id="bottom"
@@ -378,25 +378,25 @@
        height="5"
        x="50"
        y="190"
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        class="ColorScheme-Background" />
     <path
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        d="m 70,170 h 5 c 0,-3.02299 -1.966712,-5 -4.997091,-5 z"
        id="topright"
        class="ColorScheme-Background" />
     <path
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        d="m 50,170 h -5 c 0,-3.02299 1.966712,-5 4.997091,-5 z"
        id="topleft"
        class="ColorScheme-Background" />
     <path
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        d="m 50.003454,189.99328 h -5 c 0,3.02299 1.966712,5 4.997091,5 z"
        id="bottomleft"
        class="ColorScheme-Background" />
     <path
-       style="opacity:0.6;fill:currentColor"
+       style="opacity:0.9;fill:currentColor"
        d="m 70.00882,190.00189 -0.0056,5 c 3.022987,0.003 5.002206,-1.96109 5.005609,-4.99147 z"
        id="bottomright"
        class="ColorScheme-Background" />
@@ -459,7 +459,7 @@
        y="170"
        style="opacity:0.9;fill:url(#linearGradient2868);fill-opacity:1;stroke-width:1;stroke-dasharray:none" />
     <rect
-       id="shadow-right"
+       id="shadow-lright"
        width="4.9999285"
        height="20"
        x="-134.99992"
