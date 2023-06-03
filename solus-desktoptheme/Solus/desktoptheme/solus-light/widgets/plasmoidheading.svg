@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="65"
-   height="35"
-   viewBox="0 0 65 35"
+   width="69"
+   height="34"
+   viewBox="0 0 69 34"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -30,19 +30,19 @@
      units="px"
      scale-x="1"
      inkscape:zoom="14.496699"
-     inkscape:cx="17.590211"
-     inkscape:cy="23.798521"
-     inkscape:window-width="1478"
-     inkscape:window-height="853"
-     inkscape:window-x="106"
-     inkscape:window-y="254"
-     inkscape:window-maximized="0"
+     inkscape:cx="25.661014"
+     inkscape:cy="21.384179"
+     inkscape:window-width="2560"
+     inkscape:window-height="1365"
+     inkscape:window-x="0"
+     inkscape:window-y="46"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid928"
-       originx="-272"
-       originy="-347" />
+       originx="-268"
+       originy="-348" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -50,40 +50,53 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-272,-347)">
+     transform="translate(-268,-348)">
     <g
        id="g4866">
       <g
          id="g4869" />
     </g>
     <rect
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="header-center"
        width="15"
        height="15"
        x="280"
-       y="360" />
+       y="360"
+       class="ColorScheme-Background"
+       opacity="0.4"
+       fill="#0a7db9" />
     <rect
        style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="header-right"
        width="5"
        height="15"
        x="295"
-       y="360" />
+       y="360"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="header-top"
        width="15"
        height="5"
        x="280"
-       y="355" />
+       y="355"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="header-left"
        width="5"
        height="15"
        x="275"
-       y="360" />
+       y="360"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
+       id="header-topleft"
+       width="5"
+       height="5"
+       x="275"
+       y="355"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="footer-center"
@@ -91,7 +104,8 @@
        height="15"
        x="315"
        y="-375"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="footer-right"
@@ -99,7 +113,8 @@
        height="15"
        x="330"
        y="-375"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero"
        id="footer-bottom"
@@ -107,7 +122,8 @@
        height="5"
        x="315"
        y="-380"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <rect
        style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
        id="footer-left"
@@ -115,25 +131,11 @@
        height="15"
        x="310"
        y="-375"
-       transform="scale(1,-1)" />
-    <rect
-       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
-       id="footer-bottomleft"
-       width="5"
-       height="5"
-       x="310"
-       y="-380"
-       transform="scale(1,-1)" />
-    <rect
-       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
-       id="footer-bottomright"
-       width="5"
-       height="5"
-       x="330"
-       y="-380"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
     <g
-       id="header-bottom">
+       id="header-bottom"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
          id="rect9999"
@@ -150,7 +152,8 @@
          y="379" />
     </g>
     <g
-       id="header-bottomleft">
+       id="header-bottomleft"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.4;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="rect64353"
@@ -167,7 +170,8 @@
          y="379" />
     </g>
     <g
-       id="header-bottomright">
+       id="header-bottomright"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.4;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="react234"
@@ -184,7 +188,8 @@
          y="379" />
     </g>
     <g
-       id="footer-top">
+       id="footer-top"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd"
          id="reac765"
@@ -194,7 +199,7 @@
          y="-360"
          transform="scale(1,-1)" />
       <rect
-         style="opacity:1;fill:#0a7eb9;fill-opacity:0.5"
+         style="opacity:1;fill:#0a7eb9;fill-opacity:0.501961"
          id="rect2985"
          width="15"
          height="1"
@@ -202,7 +207,8 @@
          y="355" />
     </g>
     <g
-       id="footer-topleft">
+       id="footer-topleft"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.3;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="rect867"
@@ -220,7 +226,8 @@
          y="355" />
     </g>
     <g
-       id="footer-topright">
+       id="footer-topright"
+       class="ColorScheme-Background">
       <rect
          style="opacity:0.3;fill:#0a7db9;fill-opacity:1;stroke-opacity:0.31"
          id="rect765"
@@ -238,53 +245,65 @@
          y="355" />
     </g>
     <rect
-       style="opacity:1;fill:#ff6600;stroke-width:0.816494"
-       id="hint-top-margin"
-       width="1"
-       height="2"
-       x="287"
-       y="358" />
-    <rect
-       style="opacity:1;fill:#ff6600;stroke-width:0.816494"
-       id="hint-right-margin"
-       width="2"
-       height="1"
-       x="295"
-       y="367" />
-    <rect
-       style="opacity:1;fill:#ff6600;stroke-width:0.816494"
-       id="hint-bottom-marging"
-       width="1"
-       height="2"
-       x="287"
-       y="375" />
-    <rect
-       style="opacity:1;fill:#ff6600;stroke-width:0.816494"
+       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.774597"
        id="hint-left-margin"
        width="2"
        height="1"
        x="278"
        y="367" />
     <rect
-       style="opacity:1;fill:#ff6600;stroke-width:0.75"
+       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.774597"
+       id="hint-top-margin"
+       width="1"
+       height="2"
+       x="287"
+       y="358" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.632456"
+       id="hint-right-margin"
+       width="2"
+       height="1"
+       x="295"
+       y="367" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke-width:0.632456"
+       id="hint-bottom-margin"
+       height="2"
+       x="287"
+       y="375"
+       width="1" />
+    <rect
+       style="fill:#ff6600"
        id="hint-stretch-borders"
        width="3"
        height="3"
-       x="274"
-       y="349" />
+       x="270"
+       y="350" />
     <rect
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577228"
-       id="header-topleft"
-       width="5"
-       height="4.9978747"
-       x="275"
-       y="355" />
-    <rect
-       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577228"
+       style="opacity:0.4;fill:#0a7db9;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735"
        id="header-topright"
        width="5"
-       height="4.9978747"
+       height="5"
        x="295"
-       y="355" />
+       y="355"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;stroke-width:0.577351"
+       id="footer-bottomleft"
+       width="5"
+       height="5"
+       x="310"
+       y="-380"
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.3;fill:#0a7db9;fill-opacity:1;fill-rule:nonzero;stroke-width:0.577351"
+       id="footer-bottomright"
+       width="5"
+       height="5"
+       x="330"
+       y="-380"
+       transform="scale(1,-1)"
+       class="ColorScheme-Background" />
   </g>
 </svg>
