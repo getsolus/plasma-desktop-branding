@@ -1,2 +1,4 @@
 [General]
+OpenExternallyCalledFolderInNewTab=true
 RememberOpenedTabs=false
+
