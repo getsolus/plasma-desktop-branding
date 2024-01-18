@@ -1,7 +1,7 @@
 project(
     'plasma-desktop-branding',
     ['c'],
-    version: '4',
+    version: '4.1',
     license: [
         'Apache-2.0',
     ],
