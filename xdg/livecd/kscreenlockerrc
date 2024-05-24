@@ -1,0 +1,6 @@
+[Greeter]
+Theme=solusdark.desktop
+
+[Daemon]
+Autolock=false
+LockOnResume=false

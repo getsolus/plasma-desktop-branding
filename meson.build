@@ -12,6 +12,7 @@ project(
 )
 
 path_prefix = get_option('prefix')
+path_sysconfdir = get_option('sysconfdir')
 path_datadir = join_paths(path_prefix, get_option('datadir'))
 path_schemadir = join_paths(path_datadir, 'glib-2.0', 'schemas')
 
@@ -35,6 +36,7 @@ report = [
     '    prefix:                                 @0@'.format(path_prefix),
     '    datadir:                                @0@'.format(path_datadir),
     '    envdir:                                 @0@'.format(path_envdir),
+    '    etcdir:                                 @0@'.format(path_sysconfdir),
 ]
 
 # Output some stuff to validate the build config
