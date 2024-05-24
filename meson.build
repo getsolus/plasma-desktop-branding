@@ -13,6 +13,7 @@ project(
 
 path_prefix = get_option('prefix')
 path_datadir = join_paths(path_prefix, get_option('datadir'))
+path_livecddir = join_paths(path_datadir, 'livecd')
 path_schemadir = join_paths(path_datadir, 'glib-2.0', 'schemas')
 
 # Solusism
@@ -35,6 +36,7 @@ report = [
     '    prefix:                                 @0@'.format(path_prefix),
     '    datadir:                                @0@'.format(path_datadir),
     '    envdir:                                 @0@'.format(path_envdir),
+    '    livecddir:                              @0@'.format(path_livecddir),
 ]
 
 # Output some stuff to validate the build config

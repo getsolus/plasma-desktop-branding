@@ -1,1 +1,2 @@
+option('tmpfilesdir', description: 'Location for installing tmpfiles.d configs', type: 'string', value : '/usr/lib/tmpfiles.d')
 option('with-env-dir', description: 'Plasma Workspace env directory', type: 'string')

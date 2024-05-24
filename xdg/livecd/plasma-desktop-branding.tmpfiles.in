@@ -1,0 +1,2 @@
+# This file will only exist at runtime
+L+ /run/xdg/kscreenlockerrc - - - - ../..@LIVECD_DIR@/kscreenlockerrc

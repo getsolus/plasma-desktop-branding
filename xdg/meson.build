@@ -26,3 +26,5 @@ install_data(
     xdg_data,
     install_dir: xdg_dir,
 )
+
+subdir('livecd')
