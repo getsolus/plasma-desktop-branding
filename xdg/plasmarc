@@ -2,7 +2,7 @@
 usersWallpapers=/usr/share/wallpapers/SolusPlasma/
 
 [Theme]
-name=solus-dark
+name=default
 
 [Units]
 longDuration=85

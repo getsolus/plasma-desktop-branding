@@ -6,7 +6,7 @@ Theme=breeze-dark
 
 [KDE]
 ChangeCursor=true
-LookAndFeelPackage=solusdark.desktop
+LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
 widgetStyle=Breeze
 
