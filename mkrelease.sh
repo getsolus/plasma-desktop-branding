@@ -6,7 +6,7 @@ meson --prefix /usr build
 ninja dist -C build
 
 # Bump in tandem with meson.build, run script once new tag is up.
-VERSION="4.3"
+VERSION="4.6.0"
 TAR="plasma-desktop-branding-${VERSION}.tar.xz"
 mv build/meson-dist/$TAR .
 
