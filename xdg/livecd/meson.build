@@ -1,5 +1,6 @@
 livexdg_data = [
     'kscreenlockerrc',
+    'plasma-welcomerc',
 ]
 
 install_data(

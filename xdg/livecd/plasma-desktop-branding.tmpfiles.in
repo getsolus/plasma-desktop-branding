@@ -1,2 +1,3 @@
 # This file will only exist at runtime
 L+ /run/xdg/kscreenlockerrc - - - - ../..@LIVECD_DIR@/kscreenlockerrc
+L+ /run/xdg/plasma-welcomerc - - - - ../..@LIVECD_DIR@/plasma-welcomerc
