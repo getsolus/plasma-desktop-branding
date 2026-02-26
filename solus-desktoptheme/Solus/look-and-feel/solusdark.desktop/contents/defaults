@@ -2,13 +2,13 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=SolusDark
+ColorScheme=BreezeDark
 
 [kdeglobals][Icons]
 Theme=breeze-dark
 
 [plasmarc][Theme]
-name=solus-dark
+name=default
 
 [Wallpaper]
 Image=SolusPlasma
