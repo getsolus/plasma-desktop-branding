@@ -1,19 +1,18 @@
 {
-    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPackageStructure": "Plasma/Theme",
     "KPlugin": {
         "Authors": [
             {
-                "Name": "Solus Plasma"
-
+                "Name": "Solus Project Developers"
             }
         ],
         "Category": "",
-        "Description": "Solus Plasma",
-        "Id": "solusdark.desktop",
+        "Description": "Solus Plasma dark theme",
+        "Id": "solus-dark",
         "License": "Apache-2.0",
-        "Name": "SolusDark",
+        "Name": "Solus Dark",
         "ServiceTypes": [
-            "Plasma/LookAndFeel"
+            "Plasma/Theme"
         ],
         "Version": "0.1",
         "Website": "https://www.getsol.us"
