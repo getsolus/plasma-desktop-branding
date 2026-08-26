@@ -21,7 +21,6 @@ if path_envdir == ''
     path_envdir = join_paths(path_datadir, 'xdg', 'plasma-workspace', 'env')
 endif
 
-subdir('env')
 subdir('solus-desktoptheme')
 subdir('sddm')
 subdir('xdg')
