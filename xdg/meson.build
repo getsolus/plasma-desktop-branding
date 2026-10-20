@@ -15,7 +15,6 @@ xdg_data = [
     'ksmserverrc',
     'ksplashrc',
     'kwinrc',
-    'kwinrulesrc',
     'plasmarc',
     'spectaclerc',
 ]
