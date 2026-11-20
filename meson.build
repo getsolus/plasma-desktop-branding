@@ -22,7 +22,7 @@ if path_envdir == ''
 endif
 
 subdir('solus-desktoptheme')
-subdir('sddm')
+subdir('plasma-login-manager')
 subdir('xdg')
 
 
